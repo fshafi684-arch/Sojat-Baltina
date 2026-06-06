@@ -1,6 +1,8 @@
  SOJAT BALTINA - Ethiopian Business INCOME AND INVENTORY MANAGMENT SYSTEM (IIMS)
 
 Description
+
+
 A complete business management and inventory calculator app for Ethiopian businesses. Built with HTML, CSS, and JavaScript.
 
  Features
